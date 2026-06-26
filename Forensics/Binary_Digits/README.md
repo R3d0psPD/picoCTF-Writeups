@@ -1,4 +1,4 @@
-# picoCTF - Binary Digits (Forensics)
+# picoCTF - Binary Digits
 
 **Points:** 100  
 **Difficulty:** Easy  
