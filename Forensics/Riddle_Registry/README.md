@@ -1,4 +1,4 @@
-# picoCTF - Riddle Registry (Forensics)
+# picoCTF - Riddle Registry
 
 **Points:** 50  
 **Difficulty:** Easy  
