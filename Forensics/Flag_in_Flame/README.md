@@ -1,4 +1,4 @@
-# picoCTF - Flag in Flame (Forensics)
+# picoCTF - Flag in Flame
 
 **Points:** 100  
 **Difficulty:** Easy  
