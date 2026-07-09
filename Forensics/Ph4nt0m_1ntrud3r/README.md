@@ -1,4 +1,4 @@
-# picoCTF - Ph4nt0m 1ntrud3r (Forensics)
+# picoCTF - Ph4nt0m 1ntrud3r
 
 **Points:** 50  
 **Difficulty:** Easy  
